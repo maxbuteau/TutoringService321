@@ -1,6 +1,6 @@
 # project-group-15
 
-Welcome to the ECSE 321 Fall 2019 group 15 project! Best team 
+Welcome to the ECSE 321 Fall 2019 group 15 project! 
 =========
 Welcome to the ECSE 321 Fall 2019 group 15 project! 
 
